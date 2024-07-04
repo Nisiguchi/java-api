@@ -28,7 +28,7 @@ public class carrinhoCompras {
      else {
         System.out.println("A lista esta vazia");
         }
-    }
+    } 
     public double calcularValorTotal() {
         double valorTotal = 0;
         if (!comprasList.isEmpty()) {
